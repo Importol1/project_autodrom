@@ -1,6 +1,6 @@
 **Vehicle price prediction project**
 
-Project consists of 4 steps:
+Project consists of 5 steps:
 1. Parsing data from open source (actually 2 steps in my version as I forgot to get locations suitable for Nominatim);
 2. Obtain additional data on metrics that are causaly related to car prices (gos_metrics);
 3. Preprocessor for raw data obtained after parsing and delete significant outliers;
