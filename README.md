@@ -1,4 +1,4 @@
-**Vehicle price prediction project**
+# Vehicle price prediction project
 
 Project consists of 5 steps:
 1. Parsing data from open source (actually 2 steps in my version as I forgot to get locations suitable for Nominatim) (https://github.com/Importol1/project_autodrom/tree/master/parsing);
